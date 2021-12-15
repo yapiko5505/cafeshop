@@ -3,7 +3,7 @@ cafeshop
 
 cafeshopという架空サイトのサンプルです。
 
-##デモ
+## デモ
 
 [webサイトを見る](https://yasuko-cafeshop.herokuapp.com/news.html)
 
